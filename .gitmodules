@@ -1,0 +1,2 @@
+[submodule "altium-library"]
+	path = Celestial_Library	url = https://github.com/issus/altium-library
